@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\053124 Coffee Shop Product List Lab.props" />
+</Project>
